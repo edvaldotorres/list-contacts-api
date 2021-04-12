@@ -41,10 +41,8 @@ npm run dev
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/edvaldotorres/task-list/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/edvaldotorres/list-contacts/issues). 
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edvaldotorres)](https://github.com/edvaldotorres/list-contacts)
