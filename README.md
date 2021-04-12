@@ -46,3 +46,5 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edvaldotorres)](https://github.com/edvaldotorres/list-contacts)
