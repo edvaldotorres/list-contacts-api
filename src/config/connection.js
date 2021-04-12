@@ -5,7 +5,7 @@ const connectionPool = mysql.createPool({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'soft_makers_contact_db'
+    database: 'list_contact_db'
 })
 
 module.exports = {
