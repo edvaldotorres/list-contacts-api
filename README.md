@@ -1,36 +1,48 @@
-## Descrição
+<h1 align="center">Welcome to list-contacts 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/edvaldotorres/list-contacts#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-O projeto é um CRUD básico de Contatos onde tem como estrutura o padrão MVC. 
+> Project that is a contact list crud where the main technology is Node JS along with Express framework. The project can be consumed in any system as it is an API.
 
-## Stacks
+### 🏠 [Homepage](https://github.com/edvaldotorres/list-contacts#readme)
 
-- Node.JS
-- JavaScript
-- Banco de dados MySQL
-- Express
+## Prerequisites
 
-## Desafios
+* npm >= 6.14.6
 
-Nunca cheguei a desenvolver nada em Node.JS, então para mim foi um desafio essa questão! Criei uma API onde só é consumir ela no front-end. O objetivo é fazer uma aplicação separada entre front e back end.
+## Install
 
-## Problemas
+* import Database
 
-Tive alguns problemas pois como nunca usei Node.JS é um pouco diferente para mim, mais os problemas que ocorreu consegui resolver com algumas pesquisas.
+```sh
+npm install
+```
 
-## Observação
+## Usage
 
-Sempre tive vontade de aprender o Node.JS e trabalhar também. Como foi meu primeiro contato com a tecnologia desenvolvi essa API.
+```sh
+npm run dev
+```
 
-## Rodar a aplicação
+## Author
 
-1. Clonar o projeto com `https://github.com/edvaldotorres/soft-makers-contact.git`
-2. Importar o banco de dados localizado na raiz do projeto.
-3. Digite o commando `npm install`. Ele vai instalar todas dependências necessárias.
-4. Digite o commando `npm run dev`. Esse vai iniciar nosso servidor.
-5. Pronto agora é só acessar http://localhost:8000/listContact
+👤 **Edvaldo Torres de Souza**
 
-### Contato
+* Website: https://instabio.cc/3031915AsJA4p
+* Github: [@edvaldotorres](https://github.com/edvaldotorres)
+* LinkedIn: [@edvaldotorres](https://linkedin.com/in/https:\/\/linkedin.com\/in\/edvaldo-torres-189894150)
 
-- **[Instagram](https://www.instagram.com/edvaldotorres_/?hl=pt-br)**
-- **[Linkedin](https://www.linkedin.com/in/edvaldo-torres-de-souza-189894150/)**
-- edvaldodev@gmail.com
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/edvaldotorres/task-list/issues). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
