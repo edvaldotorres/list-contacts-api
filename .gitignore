@@ -1,27 +1,65 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,expressionengine,sublimetext
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,node,expressionengine,sublimetext
+# Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,node,visualstudiocode,sublimetext,git
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,node,visualstudiocode,sublimetext,git
 
-### ExpressionEngine ###
+### Git ###
+# Created by git for backups. To disable backups in Git:
+# $ git config --global mergetool.keepBackup false
+*.orig
+
+# Created by git when using merge tools for conflicts
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+### macOS ###
+# General
 .DS_Store
+.AppleDouble
+.LSOverride
 
-# Images
-images/avatars/
-images/captchas/
-images/smileys/
-images/member_photos/
-images/signature_attachments/
-images/pm_attachments/
+# Icon must end with two \r
+Icon
 
-# For security do not publish the following files
-system/expressionengine/config/database.php
-system/expressionengine/config/config.php
 
-# Caches
-sized/
-thumbs/
-_thumbs/
-*/expressionengine/cache/*
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
 ### Node ###
 # Logs
@@ -192,4 +230,30 @@ GitHub.sublime-settings
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,expressionengine,sublimetext
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,node,visualstudiocode,sublimetext,git
