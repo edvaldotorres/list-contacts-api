@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to list-contacts 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/NodeJS-6.14.6-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/npm-6.14.6-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/edvaldotorres/list-contacts#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -19,7 +19,7 @@
 
 ## Install
 
-* import Database
+* Import database
 
 ```sh
 npm install
@@ -31,13 +31,17 @@ npm install
 npm run dev
 ```
 
+```sh
+http://localhost:8000/listContact)
+```
+
 ## Author
 
 👤 **Edvaldo Torres de Souza**
 
 * Website: https://instabio.cc/3031915AsJA4p
 * Github: [@edvaldotorres](https://github.com/edvaldotorres)
-* LinkedIn: [@edvaldotorres](https://linkedin.com/in/https:\/\/linkedin.com\/in\/edvaldo-torres-189894150)
+* LinkedIn: [@Edvaldo Torres](https://www.linkedin.com/in/edvaldo-torres-189894150/)
 
 ## 🤝 Contributing
 
