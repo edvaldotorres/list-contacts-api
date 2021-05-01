@@ -39,9 +39,9 @@ http://localhost:8000/listContact)
 
 👤 **Edvaldo Torres de Souza**
 
-* Website: https://instabio.cc/3031915AsJA4p
+* Website: [edvaldotorres.com.br](https://edvaldotorres.com.br/)
 * Github: [@edvaldotorres](https://github.com/edvaldotorres)
-* LinkedIn: [@Edvaldo Torres](https://www.linkedin.com/in/edvaldo-torres-189894150/)
+* LinkedIn: [Edvaldo Torres](https://www.linkedin.com/in/edvaldo-torres-189894150/)
 
 ## 🤝 Contributing
 
