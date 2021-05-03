@@ -32,7 +32,7 @@ npm run dev
 ```
 
 ```sh
-http://localhost:8000/listContact)
+http://localhost:8000/listContact
 ```
 
 ## Author
