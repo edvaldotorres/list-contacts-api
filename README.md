@@ -32,11 +32,6 @@ npm install
 ```sh
 npm run dev
 ```
-
-```sh
-http://localhost:8000/listContact
-```
-
 ## Author
 
 👤 **Edvaldo Torres de Souza**
