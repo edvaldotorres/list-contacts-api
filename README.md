@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to list-contacts 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/npm-6.14.6-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/NodeJS-614.16.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/edvaldotorres/list-contacts#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -17,6 +18,8 @@
 
 * npm >= 6.14.6
 
+* Node JS >= 14.16.1
+
 ## Install
 
 * Import database
@@ -24,7 +27,6 @@
 ```sh
 npm install
 ```
-
 ## Usage
 
 ```sh
